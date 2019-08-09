@@ -4,7 +4,7 @@ Here you can see some of my career and the crazy things I've been doing for a lo
 I'm started my contact with IT at 12 years old. Until now i continue learning something new and this that makes me feel alive.
 
 ### from ZERO to Millions
-I think most IT people have a big dream to make a difference in humanity and I had this privilege when working with education. I saw a lot of people change their lives for the better with something that I helped produce and it makes me fucking happy (sorry for the bad word).
+I think most IT people have a big dream to make a difference in humanity and I had this privilege when working with education. I saw a lot of people change their lives with online education for the better and the my old company make a lot of money with something that I helped produce and it makes me fucking happy (sorry for the bad word).
 
 ### Somethings projects that i helped to build:
 1. [A Casa do Concurseiro](https://acasadoconcurseiro.com.br)
