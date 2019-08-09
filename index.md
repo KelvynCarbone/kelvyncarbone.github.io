@@ -19,8 +19,11 @@ I think most IT people have a big dream to make a difference in humanity and I h
 - UX & UI
 - CRM
 - Financial know-how
-- Full Stack Developer (various platform languages - Currently Senior Laravel)
+- Full Stack Developer (various platform languages - Currently Senior Laravel/Vuejs)
+- Javascript
 - SEO, Little bit of Conversion Pixels
+- Amazon
+- Apache, Nginx, Memcached, Redis, Queues, Face Recognition, SPA
 ```
 
 ### Support or Contact
