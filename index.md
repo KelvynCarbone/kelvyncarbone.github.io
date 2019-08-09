@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+##Welcome stranger or neighborhood - Who iam
+Here you can see some of my career and the crazy things I've been doing for a long time in this life.
 
-You can use the [editor on GitHub](https://github.com/KelvynCarbone/kelvyncarbone.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm started my contact with IT at 12 years old. Until now i continue learning something new and this that makes me feel alive.
 
 ### Markdown
 
