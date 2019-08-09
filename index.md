@@ -1,11 +1,10 @@
-##Welcome stranger or neighborhood - Who iam
+### Welcome stranger or neighborhood - Who iam
 Here you can see some of my career and the crazy things I've been doing for a long time in this life.
 
 I'm started my contact with IT at 12 years old. Until now i continue learning something new and this that makes me feel alive.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### from ZERO to Millions
+I think most IT people have a big dream to make a difference in humanity and I had this privilege when working with education. I saw a lot of people change their lives for the better with something that I helped produce and it makes me fucking happy (sorry for the bad word).
 
 ```markdown
 Syntax highlighted code block
