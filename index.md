@@ -6,35 +6,23 @@ I'm started my contact with IT at 12 years old. Until now i continue learning so
 ### from ZERO to Millions
 I think most IT people have a big dream to make a difference in humanity and I had this privilege when working with education. I saw a lot of people change their lives for the better with something that I helped produce and it makes me fucking happy (sorry for the bad word).
 
-#### Somethings projects that i helped to build:
+### Somethings projects that i helped to build:
 1. [A Casa do Concurseiro](https://acasadoconcurseiro.com.br)
 2. [Online - PUCRS](https://online.pucrs.br)
 3. [Estuda que Passa](https://estudaquepassa.com.br)
+4. [Sala Virtual](https://salavirtual.pucrs.br)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### My habilities & Know-how
+- Leadership
+- Projects Manager & Certified Scrum Master
+- UX & UI
+- CRM
+- Financial know-how
+- Full Stack Developer (various platform languages - Currently Senior Laravel)
+- SEO, Little bit of Conversion Pixels
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KelvynCarbone/kelvyncarbone.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You want see more or contact me? Check out my email **kelvyn.carbone@gmail.com** or [linkedin](https://www.linkedin.com/in/kelvyncarbone) and send me a message.
