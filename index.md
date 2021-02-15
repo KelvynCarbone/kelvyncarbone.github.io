@@ -11,6 +11,8 @@ I think most IT people have a big dream to make a difference in humanity and I h
 2. [Online - PUCRS](https://online.pucrs.br)
 3. [Estuda que Passa](https://estudaquepassa.com.br)
 4. [Sala Virtual](https://salavirtual.pucrs.br)
+5. [GG Concursos](https://ggconcursos.com.br)
+6. [Fênix Vestibulares](https://fenixpre.com.br)
 
 ```markdown
 ### My habilities & Know-how
