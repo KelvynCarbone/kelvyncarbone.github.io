@@ -13,7 +13,7 @@ In my free time i help younger developers to get the base of Software Engineer a
 
 - 📍 From RS, Porto Alegre, Earth Magic
 - 💻 Creator of EduStore, Online Education Platform (Around 30 million reais operated per year)
-- 🚀 Sharing a knowledge of my journey at [Instagram](https://www.instagram.com/kelvyn.carbone/) 
+- 🚀 Sharing knowledge of my journey at [Instagram](https://www.instagram.com/kelvyn.carbone/) 
 
 Contact me out 👇🏼
 
